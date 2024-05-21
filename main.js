@@ -17,4 +17,7 @@ var hour=4;
 var res= hour*3600;
 console.log(hour+"hour = " +res +"secound" ) ;
 
-//q6
+//q4
+var A=`thingOne`;
+var B= `thingtow`;
+console.log(A+B);
